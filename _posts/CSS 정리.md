@@ -1,7 +1,6 @@
----
-layout: single
-title:  "CSS "
----
+layout: post
+title:  "CSS 정리"
+category: jekyll
 
 ## **CSS**
 
