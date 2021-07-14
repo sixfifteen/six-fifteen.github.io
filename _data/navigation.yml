@@ -3,8 +3,8 @@ main:
   
   - title: "Monthly"
     url: /month-archive/
-  - title: "Tag"
-    url: /tags/
+#   - title: "Tag"
+#     url: /tags/
   - title: "Category"
     url: /categories/  
     
