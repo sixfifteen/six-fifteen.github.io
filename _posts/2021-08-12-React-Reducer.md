@@ -116,7 +116,7 @@ const dispatachAddTodo = (text) => {
 
 ### 																`데이터 흐름도`
 
-<img src="../image/dataf.png" alt="dataf" style="zoom:50%;" />
+![dataf](https://user-images.githubusercontent.com/86995290/129172188-b386d0ca-f3c6-44d8-b569-1b64f3893c27.png)
 
 #### 데이터 흐름
 
