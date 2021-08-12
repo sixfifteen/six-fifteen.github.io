@@ -1,3 +1,9 @@
+---
+title: "Reducer, action, store, redux"
+layout: single
+category: React
+---
+
 ## Action이란?
 
 `store`에서 `state` 변화를 일으킬 때 참조하는 객체이다.
@@ -116,7 +122,7 @@ const dispatachAddTodo = (text) => {
 
 ### 																`데이터 흐름도`
 
-![dataf](https://user-images.githubusercontent.com/86995290/129172188-b386d0ca-f3c6-44d8-b569-1b64f3893c27.png)
+<img src='https://user-images.githubusercontent.com/86995290/129172188-b386d0ca-f3c6-44d8-b569-1b64f3893c27.png' width=50% height=50%>
 
 #### 데이터 흐름
 
